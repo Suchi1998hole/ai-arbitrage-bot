@@ -1,7 +1,7 @@
 # AI-Powered Arbitrage Trading with Reinforcement Learning
 
 ## Overview
-This project implements a *Reinforcement Learning-based Arbitrage Trading Model, designed to exploit price differences between Binance and Coinbase. Using **Deep Q-Learning*, the model learns an optimal trading strategy to maximize profits while managing risks.
+This project implements a Reinforcement Learning-based Arbitrage Trading Model, designed to exploit price differences between Binance and Coinbase. Using Deep Q-Learning, the model learns an optimal trading strategy to maximize profits while managing risks.
 
 ## Features
 - ✅ *Deep Q-Learning for trade decision-making*  
@@ -64,3 +64,4 @@ This project is licensed under the MIT License.
 If you're interested in AI-driven trading, let's connect on [LinkedIn](https://linkedin.com/suchitra-hole) or collaborate on this project!
 
 #MachineLearning #ReinforcementLearning #AITrading #CryptoTrading #QuantFinance #AlgorithmicTrading
+
